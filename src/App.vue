@@ -74,8 +74,8 @@ function submitTutor() {
 
     <!-- HEADER -->
     <header class="topbar">
-      <a class="brand" href="#" aria-label="TutoRoo home">
-        tuto<span>roo</span><i>✳</i>
+      <a class="brand" href="#" aria-label="StudyKite home">
+        Study<span>Kite</span><i>✳</i>
       </a>
 
       <button
@@ -131,7 +131,7 @@ function submitTutor() {
           <div
             class="audience-switch"
             role="group"
-            aria-label="Choose your TutoRoo journey"
+            aria-label="Choose your StudyKite journey"
           >
             <button
               :class="{ selected: !isTutor }"
@@ -155,7 +155,7 @@ function submitTutor() {
           >
             <div class="quick-form-copy">
               <strong>Find your kind of help.</strong>
-              <span>Be first to hear when TutoRoo opens.</span>
+              <span>Be first to hear when StudyKite opens.</span>
             </div>
 
             <button type="submit">
@@ -234,7 +234,7 @@ function submitTutor() {
           </h2>
 
           <p>
-            TutoRoo opens in early 2027. Tell us who you are
+            StudyKite opens in early 2027. Tell us who you are
             and we'll save you a place.
           </p>
 
@@ -318,7 +318,7 @@ function submitTutor() {
 
               <span>
                 I confirm I'm 18 or over, and I'm happy to get
-                emails about TutoRoo's launch.
+                emails about StudyKite's launch.
               </span>
             </label>
 
@@ -454,7 +454,7 @@ function submitTutor() {
               <div class="step-icon">♡</div>
               <h3>Book and pay securely.</h3>
               <p>
-                Arrange lessons and pay through TutoRoo,
+                Arrange lessons and pay through StudyKite,
                 not cash in hand.
               </p>
             </article>
@@ -509,7 +509,7 @@ function submitTutor() {
             </li>
 
             <li>
-              Get in early and help shape TutoRoo
+              Get in early and help shape StudyKite
             </li>
           </ul>
 
@@ -602,7 +602,7 @@ function submitTutor() {
 
                 <span>
                   I'm 18 or over, and I'm happy to get emails
-                  about joining TutoRoo.
+                  about joining StudyKite.
                 </span>
               </label>
 
@@ -635,7 +635,7 @@ function submitTutor() {
 
         <div class="faq-list">
           <details open>
-            <summary>When does TutoRoo launch?</summary>
+            <summary>When does StudyKite launch?</summary>
             <p>
               We're aiming to launch in early 2027 across the UK.
               Join the waitlist to hear updates first.
@@ -681,7 +681,7 @@ function submitTutor() {
     <!-- FOOTER -->
     <footer class="footer">
       <a class="brand footer-brand" href="#">
-        tuto<span>roo</span><i>✳</i>
+        Study<span>Kite</span><i>✳</i>
       </a>
 
       <p>Helping everyone take their next leap.</p>
@@ -694,8 +694,7 @@ function submitTutor() {
       </div>
 
       <small>
-        © 2026 TutoRoo. All rights reserved.
-        <span>Launching early 2027 · UK-wide</span>
+        © 2026 StudyKite. All rights reserved.
       </small>
     </footer>
 
